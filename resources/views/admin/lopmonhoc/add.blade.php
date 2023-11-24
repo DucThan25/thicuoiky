@@ -8,11 +8,11 @@
     {{-- @include('admin.alert') --}}
     <div class="card-body">
         <div class="form-group">
-            <label>Mã lớp học</label>
+            <label>Mã lớp học nhé</label>
             <input type="text" name="malop" class="form-control" id="malop" placeholder="Nhập mã lớp học">
         </div>
         <div class="form-group">
-            <label>Tên lớp học</label>
+            <label>Tên lớp học nhé</label>
             <input type="text" name="tenlop" class="form-control" id="tenlop" placeholder="Nhập tên lớp học">
         </div>
         <div class="form-group">
